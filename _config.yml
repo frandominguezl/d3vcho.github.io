@@ -1,16 +1,16 @@
 title: Fran "d3vcho" Domínguez
 description: Estudiante de Ingeniería Informática
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
+author: Fran Domínguez
+logo:
 github: https://github.com/d3vcho
-about: Freelance developer
+about: Estudiante de Ingeniería Informática
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: 
+disqus_shortname:
 google_analytics:
 
 share:
